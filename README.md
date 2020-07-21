@@ -3,8 +3,8 @@ Prepare data from accelerometer, use diffrent convolutional neural network to cl
 https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones - link to data repositories  
 I Model  
 3x....py - files with three models to create a structural recognize  
-1) Classify: Static/Dynamic  
-2) Classification: standing, laying, sitting or walk, walk up, walk down.  
+First: Classify Static/Dynamic  
+Next: Classification standing, laying, sitting or walk, walk up, walk down.  
 II-III Model  
 accelerometer.py - there are two 1D CNN models  
 IV Model  
